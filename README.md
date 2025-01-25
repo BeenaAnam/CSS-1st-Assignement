@@ -1,1 +1,1 @@
-This my First CSS assignment using with inline css and external css some basic properties
+This is my First CSS assignment created with inline css and external css and some basic properties
